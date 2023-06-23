@@ -16,6 +16,13 @@ Hedera는 블록체인을 생성하는 일반적인 블록 대신 **해시 그�
 - 기업과 기관을 대상으로 설계되었으며 이는 중앙화된 특성이 일부 사용자들에게 신뢰성 및 개인 정보 보호에 대한 의문을 제기할 수 있습니다.
 
 ## 어떤식으로 처리하는지 
+**기존 블록체인 구조**
+
+![2gsjgna1uruvUuS7ndh9YqVwYGPLVszbFLwwpAYXYX2xEhb98u6m4NDZmVQTMV2LEnXk81Ydn3EmiekaCSRvsa6Ga5LV5ftnh7SR5mfXE4TfXvXLsg.png](https://coinpan.com/files/attach/images/198/679/615/165/ecf97faf092e35d3f00a4aa78898d6dd.png)
+
+**헤데라는 DAG구조**
+
+![image.png](https://coinpan.com/files/attach/images/198/679/615/165/7dceca2f16905dc9c3470811b96916cf.png)
 ### 해시그래프 합의
 Hedera는 블록체인 합의 메커니즘에 대한 더 빠르고 안전한 대안인 해시그래프 합의를 사용하는 유일한 공개 원장입니다. Leemon Baird Hedera의 공동 창립자이자 수석 과학자가 만든 Hashgraph는 악의적인 공격을 방지하기 위해 최고 수준의 보안을 보장하면서 거래를 효율적으로 검증합니다. Hashgraph는 오늘 초당 10,000개 이상의 트랜잭션으로 높은 처리량을 달성하고 가십 프로토콜 및 가상 투표에 대한 혁신적인 가십에서 몇 초 만에 짧은 대기 시간 최종성을 달성합니다. 합의에 도달하면 트랜잭션은 변경 불가능하며 모든 사람이 투명하게 볼 수 있도록 공개 원장에서 사용할 수 있습니다.
 
